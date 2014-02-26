@@ -6,7 +6,7 @@ Done as a part of the course Principles of Data Management by Professor Mike Car
 
 Details:
 src
-|__makefile.inc - Makefile include (provided in source codebase.zip)
+|__makefile.inc - Makefile
 		|__project3-report.pdf - Project3-Report 
 		|__pf(folder) - Milestone0
 			|__makefile - Makefile (provided in source codebase.zip for Project0)
